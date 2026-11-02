@@ -173,3 +173,9 @@ footer small{display:block;margin-top:40px;color:var(--muted)}
 /* availability pill (home card and hero) */
 .hero .seek{display:inline-flex;align-items:center;gap:8px;margin-top:18px;font-size:.86rem;font-weight:500;color:var(--accent-2);background:var(--soft);padding:6px 14px;border-radius:999px}
 .hero .seek::before{content:"";width:7px;height:7px;border-radius:50%;background:#2fb36b;box-shadow:0 0 0 3px rgba(47,179,107,.2)}
+
+/* four-card grid and four-step roadmap */
+.pillars.four{grid-template-columns:repeat(2,1fr)}
+.how.four{grid-template-columns:repeat(4,1fr)}
+@media (max-width:900px){ .how.four{grid-template-columns:repeat(2,1fr)} }
+@media (max-width:760px){ .pillars.four,.how.four{grid-template-columns:1fr} }

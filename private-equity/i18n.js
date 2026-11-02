@@ -5,21 +5,21 @@ window.I18N = {
 
 /* ============================== ENGLISH ============================== */
 en: {
-  'meta.title': 'Ketevan Bachilava · Private Equity & Impact',
-  'nav.vision': 'Vision', 'nav.xp': 'Experience', 'nav.values': 'Values', 'nav.certs': 'Certifications', 'nav.contact': 'Contact',
+  'meta.title': 'Ketevan Bachilava · Private Equity',
+  'nav.vision': 'Motivation', 'nav.xp': 'Experience', 'nav.values': 'Values', 'nav.certs': 'Certifications', 'nav.contact': 'Contact',
 
-  'hero.eyebrow': 'Finance · Private Equity · Impact · Analysis',
-  'hero.title': 'Putting capital to work for companies that <em>make the world better.</em>',
-  'hero.lead': 'MSc student in Econometrics &amp; Statistics (Financial Modelling track) at Paris 1 Panthéon-Sorbonne, I am preparing for a career in Private Equity. I hope to contribute to companies that are building a more sustainable economy, and to bring rigorous analysis to the decisions behind them.',
+  'hero.eyebrow': 'Finance · Private Equity · Data · Analysis',
+  'hero.title': 'Rigorous analysis for <em>better investment decisions.</em>',
+  'hero.lead': 'MSc student in Econometrics &amp; Statistics (Financial Modelling track) at Paris 1 Panthéon-Sorbonne, I combine financial analysis, econometrics and machine learning to support investment teams, from screening and due diligence to valuation and portfolio monitoring.',
   'hero.seek': 'Available for a finance internship from January 2027',
-  'hero.cta1': 'Discover my vision', 'hero.cta2': 'Contact me',
+  'hero.cta1': 'Discover my profile', 'hero.cta2': 'Contact me',
 
-  'p.num': '01 · My vision',
+  'p.num': '01 · My motivation',
   'p.title': 'Why Private Equity',
-  'p.p1': 'I have always wanted my work to have a tangible effect on the real economy. Econometrics taught me how numbers can describe the world; Private Equity is where I see them used to change it, by investors who stay alongside a company for several years and help shape its strategy, governance and growth.',
+  'p.p1': 'I have always wanted my work to have a tangible effect on the real economy. Econometrics taught me how numbers can describe the world; Private Equity is where I see them used to shape it, by investors who stay alongside a company for several years and help build its strategy, governance and growth.',
   'p.p2': "Investing well requires reading the numbers, valuing a business and making decisions under uncertainty. These are the skills I have been building since my bachelor's degree and continue to develop in my master's, through econometrics, financial modelling and financial analysis.",
-  'p.p3': 'I would like to apply these skills to sustainable finance: supporting companies that respect the environment and animal welfare, held to the same financial standards as any other investment. It is a conviction I already live by, from my vegetarian lifestyle to my volunteering with the Brigitte Bardot Foundation, and one I want my career to serve.',
-  'p.p4': 'In the longer run, I would like to start my own company or work with associations, with the same idea: making finance and sustainability move forward together.',
+  'p.p3': 'What sets me apart is the data side. Data now plays a role at every stage of a deal, from screening targets to monitoring portfolio companies, and I know how to collect, clean, model and explain it. I am curious about every sector and type of transaction, with a particular interest in companies that combine performance and sustainability.',
+  'p.p4': 'I am looking for a team where I can learn from experienced investors, take on real responsibilities and contribute from day one.',
   'doc.report': 'Report (PDF) ↗',
   'doc.slides': 'Presentation (PDF) ↗',
   'doc.excel': 'Excel analysis ↗',
@@ -29,6 +29,17 @@ en: {
   'doc.log': 'Decision log (PDF) ↗',
   'doc.paper': 'Paper (PDF) ↗',
   'doc.market': 'Market analysis (PDF) ↗',
+  'k.num': '02 · How I can contribute',
+  'k.title': 'What I can bring to a deal team',
+  'k.sub': 'My background combines financial analysis, econometrics and machine learning. Here is how I can put it to work for an investment team:',
+  'k1.t': 'Screening &amp; sourcing',
+  'k1.p': 'Building data-driven screens to identify and rank potential targets: financial ratios, growth signals, comparable-company clustering and scoring models in Python, R or SQL.',
+  'k2.t': 'Due diligence',
+  'k2.p': 'Cleaning and analysing company and market data, testing what drives revenue and margins with econometric models, and sizing markets, as I did for the Norwegian market at Autolyzer.',
+  'k3.t': 'Valuation &amp; modelling',
+  'k3.p': 'Restating financial statements, building DCF models with scenarios and sensitivity analysis, as in my Polestar equity research, and quantifying risk with Monte Carlo simulation.',
+  'k4.t': 'Machine learning &amp; monitoring',
+  'k4.p': 'Using machine learning to forecast KPIs and spot early-warning signals in portfolio companies, and automating reporting in Excel and VBA, while keeping every result explainable to the team.',
   'p.quote': '“To change the world we live in, we first have to understand it.”',
 
 
@@ -90,7 +101,7 @@ en: {
 
   'v.num': '04 · Values &amp; commitments',
   'v.title': 'What drives me',
-  'v.sub': 'My personal commitments are where my professional project comes from.',
+  'v.sub': 'Beyond finance: what drives me.',
   'v2.t': 'Commitment',
   'v2.p': 'Wherever I have studied, I have found a way to get involved: with the Economics Students’ Association in Strasbourg, the Vélodocteurs bike association in Colmar and, since November 2026, the Brigitte Bardot Foundation in Paris, a cause particularly close to my heart. These experiences have taught me that commitment is built through regular, concrete action, and they keep me close to the realities behind the causes I hope to support as an investor.',
   'v3.t': 'Design',
@@ -129,26 +140,26 @@ en: {
   's.lang': 'Languages', 's.lang.t': 'Georgian · native|Russian · native|French · C1|English · C1|Ukrainian · B2|Norwegian · A2',
 
   'c.num': 'Contact', 'c.title': "Let's talk",
-  'c.sub': 'Sustainable finance, Private Equity or an idea we could build together: I would love to hear from you!'
+  'c.sub': 'Private Equity, financial modelling or data: I would be glad to discuss how I can contribute to your team.'
 },
 
 /* ============================== FRANÇAIS ============================== */
 fr: {
-  'meta.title': 'Ketevan Bachilava · Private Equity & impact',
-  'nav.vision': 'Vision', 'nav.xp': 'Expériences', 'nav.values': 'Valeurs', 'nav.certs': 'Certifications', 'nav.contact': 'Contact',
+  'meta.title': 'Ketevan Bachilava · Private Equity',
+  'nav.vision': 'Motivation', 'nav.xp': 'Expériences', 'nav.values': 'Valeurs', 'nav.certs': 'Certifications', 'nav.contact': 'Contact',
 
-  'hero.eyebrow': 'Finance · Private Equity · Impact · Analyse',
-  'hero.title': 'Mettre le capital au service des entreprises qui <em>rendent le monde meilleur.</em>',
-  'hero.lead': "Étudiante en master Économétrie &amp; Statistique (parcours Modélisation financière) à Paris 1 Panthéon-Sorbonne, je me prépare à une carrière en Private Equity. J'aimerais contribuer au développement d'entreprises qui construisent une économie plus durable, en apportant une analyse rigoureuse aux décisions qui les concernent.",
+  'hero.eyebrow': 'Finance · Private Equity · Data · Analyse',
+  'hero.title': "Une analyse rigoureuse pour <em>de meilleures décisions d'investissement.</em>",
+  'hero.lead': "Étudiante en master Économétrie &amp; Statistique (parcours Modélisation financière) à Paris 1 Panthéon-Sorbonne, j'associe analyse financière, économétrie et machine learning pour accompagner les équipes d'investissement, du screening et de la due diligence jusqu'à la valorisation et au suivi des participations.",
   'hero.seek': "Disponible pour un stage en finance à partir de janvier 2027",
-  'hero.cta1': 'Découvrir ma vision', 'hero.cta2': 'Me contacter',
+  'hero.cta1': 'Découvrir mon profil', 'hero.cta2': 'Me contacter',
 
-  'p.num': '01 · Ma vision',
+  'p.num': '01 · Ma motivation',
   'p.title': 'Pourquoi le Private Equity',
-  'p.p1': "J'ai toujours voulu que mon travail ait un effet concret sur l'économie réelle. L'économétrie m'a appris comment les chiffres décrivent le monde ; le Private Equity, c'est là où je les vois servir à le transformer, grâce à des investisseurs qui accompagnent une entreprise pendant plusieurs années et contribuent à sa stratégie, sa gouvernance et sa croissance.",
+  'p.p1': "J'ai toujours voulu que mon travail ait un effet concret sur l'économie réelle. L'économétrie m'a appris comment les chiffres décrivent le monde ; le Private Equity, c'est là où je les vois servir à le façonner, grâce à des investisseurs qui accompagnent une entreprise pendant plusieurs années et contribuent à sa stratégie, sa gouvernance et sa croissance.",
   'p.p2': "Pour bien investir, il faut savoir lire des chiffres, évaluer une entreprise et prendre des décisions dans l'incertitude. Ce sont les compétences que je construis depuis ma licence et que je continue de développer en master, à travers l'économétrie, la modélisation financière et l'analyse financière.",
-  'p.p3': "J'aimerais mettre ces compétences au service de la finance durable : soutenir les entreprises qui respectent l'environnement et le bien-être animal, avec la même exigence financière que pour n'importe quel autre investissement. C'est une conviction que je vis déjà au quotidien, de mon mode de vie végétarien à mon bénévolat à la Fondation Brigitte Bardot, et que je veux mettre au cœur de ma carrière.",
-  'p.p4': "À plus long terme, j'aimerais créer ma propre entreprise ou m'engager dans le monde associatif, avec la même idée : faire avancer ensemble la finance et la durabilité.",
+  'p.p3': "Ce qui me distingue, c'est la dimension data. Les données interviennent aujourd'hui à chaque étape d'une opération, du screening des cibles au suivi des participations, et je sais les collecter, les nettoyer, les modéliser et les expliquer. Je suis curieuse de tous les secteurs et de tous les types d'opérations, avec un intérêt particulier pour les entreprises qui allient performance et durabilité.",
+  'p.p4': "Je cherche une équipe où je pourrai apprendre auprès d'investisseurs expérimentés, prendre de vraies responsabilités et contribuer dès le premier jour.",
   'doc.report': 'Rapport (PDF) ↗',
   'doc.slides': 'Présentation (PDF) ↗',
   'doc.excel': 'Analyse Excel ↗',
@@ -158,6 +169,17 @@ fr: {
   'doc.log': 'Journal des décisions (PDF) ↗',
   'doc.paper': 'Dossier (PDF) ↗',
   'doc.market': 'Analyse de marché (PDF) ↗',
+  'k.num': '02 · Ma contribution',
+  'k.title': "Ce que je peux apporter à une équipe d'investissement",
+  'k.sub': "Mon parcours associe analyse financière, économétrie et machine learning. Voici comment je peux les mettre au service d'une équipe d'investissement :",
+  'k1.t': 'Screening &amp; sourcing',
+  'k1.p': "Construire des screenings fondés sur les données pour identifier et classer des cibles potentielles : ratios financiers, signaux de croissance, regroupement d'entreprises comparables et modèles de scoring sous Python, R ou SQL.",
+  'k2.t': 'Due diligence',
+  'k2.p': "Nettoyer et analyser les données d'une entreprise et de son marché, tester les moteurs du chiffre d'affaires et des marges avec des modèles économétriques, et estimer la taille d'un marché, comme je l'ai fait pour le marché norvégien chez Autolyzer.",
+  'k3.t': 'Valorisation &amp; modélisation',
+  'k3.p': 'Retraiter des états financiers, construire des DCF avec scénarios et analyse de sensibilité, comme dans mon equity research sur Polestar, et quantifier le risque par simulation de Monte Carlo.',
+  'k4.t': 'Machine learning &amp; suivi',
+  'k4.p': "Utiliser le machine learning pour prévoir des indicateurs clés et repérer des signaux d'alerte dans les participations, et automatiser le reporting sous Excel et VBA, en gardant chaque résultat explicable pour l'équipe.",
   'p.quote': "« Pour changer le monde dans lequel on vit, il faut d'abord le comprendre. »",
 
 
@@ -219,7 +241,7 @@ fr: {
 
   'v.num': '04 · Valeurs &amp; engagements',
   'v.title': 'Ce qui me fait avancer',
-  'v.sub': "Mes engagements personnels sont à l'origine de mon projet professionnel.",
+  'v.sub': 'Au-delà de la finance : ce qui me fait avancer.',
   'v2.t': 'Engagement',
   'v2.p': "Partout où j'ai étudié, j'ai trouvé un moyen de m'engager : à l'Association des étudiants en économie de Strasbourg, à l'association Vélodocteurs à Colmar et, depuis novembre 2026, à la Fondation Brigitte Bardot à Paris, une cause qui me tient particulièrement à cœur. Ces expériences m'ont appris que l'engagement se construit par des actions concrètes et régulières, et elles me gardent proche des réalités derrière les causes que j'espère soutenir en tant qu'investisseuse.",
   'v3.t': 'Design',
@@ -258,26 +280,26 @@ fr: {
   's.lang': 'Langues', 's.lang.t': 'Géorgien · natif|Russe · natif|Français · C1|Anglais · C1|Ukrainien · B2|Norvégien · A2',
 
   'c.num': 'Contact', 'c.title': 'Échangeons',
-  'c.sub': "Finance durable, Private Equity ou idée à construire ensemble : je serais ravie d'en discuter avec vous !"
+  'c.sub': "Private Equity, modélisation financière ou data : je serais ravie d'échanger sur la façon dont je peux contribuer à votre équipe."
 },
 
 /* ============================== РУССКИЙ ============================== */
 ru: {
-  'meta.title': 'Кетеван Бачилава · Private Equity и импакт',
-  'nav.vision': 'Видение', 'nav.xp': 'Опыт', 'nav.values': 'Ценности', 'nav.certs': 'Сертификаты', 'nav.contact': 'Контакты',
+  'meta.title': 'Кетеван Бачилава · Private Equity',
+  'nav.vision': 'Мотивация', 'nav.xp': 'Опыт', 'nav.values': 'Ценности', 'nav.certs': 'Сертификаты', 'nav.contact': 'Контакты',
 
-  'hero.eyebrow': 'Финансы · Private Equity · Импакт · Анализ',
-  'hero.title': 'Капитал на службе компаний, которые <em>делают мир лучше.</em>',
-  'hero.lead': 'Я учусь в магистратуре по эконометрике и статистике (профиль «Финансовое моделирование») в Университете Париж 1 Пантеон-Сорбонна и готовлюсь к карьере в Private Equity. Я хотела бы внести вклад в развитие компаний, которые строят более устойчивую экономику, и привносить строгий анализ в решения, которые их касаются.',
+  'hero.eyebrow': 'Финансы · Private Equity · Данные · Анализ',
+  'hero.title': 'Строгий анализ для <em>лучших инвестиционных решений.</em>',
+  'hero.lead': 'Я учусь в магистратуре по эконометрике и статистике (профиль «Финансовое моделирование») в Университете Париж 1 Пантеон-Сорбонна и сочетаю финансовый анализ, эконометрику и машинное обучение, чтобы поддерживать инвестиционные команды — от отбора компаний и due diligence до оценки и мониторинга портфеля.',
   'hero.seek': 'Готова пройти стажировку в финансах с января 2027 года',
-  'hero.cta1': 'Узнать о моём видении', 'hero.cta2': 'Связаться со мной',
+  'hero.cta1': 'Узнать обо мне', 'hero.cta2': 'Связаться со мной',
 
-  'p.num': '01 · Моё видение',
+  'p.num': '01 · Моя мотивация',
   'p.title': 'Почему Private Equity',
-  'p.p1': 'Мне всегда хотелось, чтобы моя работа ощутимо влияла на реальную экономику. Эконометрика научила меня тому, как цифры описывают мир, а в Private Equity я вижу, как они помогают его менять: инвесторы несколько лет сопровождают компанию и участвуют в формировании её стратегии, управления и роста.',
+  'p.p1': 'Мне всегда хотелось, чтобы моя работа ощутимо влияла на реальную экономику. Эконометрика научила меня тому, как цифры описывают мир, а в Private Equity я вижу, как они помогают его формировать: инвесторы несколько лет сопровождают компанию и участвуют в выстраивании её стратегии, управления и роста.',
   'p.p2': 'Чтобы инвестировать грамотно, нужно уметь читать цифры, оценивать бизнес и принимать решения в условиях неопределённости. Эти навыки я развиваю с бакалавриата и продолжаю развивать в магистратуре — через эконометрику, финансовое моделирование и финансовый анализ.',
-  'p.p3': 'Я хотела бы применять эти навыки в устойчивых финансах: поддерживать компании, которые уважают окружающую среду и благополучие животных, с теми же финансовыми требованиями, что и любую другую инвестицию. Это убеждение, которым я уже живу — от вегетарианского образа жизни до волонтёрства в Фонде Брижит Бардо, — и я хочу, чтобы ему служила моя карьера.',
-  'p.p4': 'В долгосрочной перспективе я хотела бы создать собственную компанию или работать с некоммерческими организациями — с той же идеей: чтобы финансы и устойчивое развитие двигались вперёд вместе.',
+  'p.p3': 'Меня отличает работа с данными. Сегодня данные используются на каждом этапе сделки — от отбора целей до мониторинга портфельных компаний, — и я умею их собирать, очищать, моделировать и объяснять. Мне интересны все отрасли и типы сделок, особенно компании, которые сочетают эффективность и устойчивое развитие.',
+  'p.p4': 'Я ищу команду, в которой смогу учиться у опытных инвесторов, брать на себя реальную ответственность и приносить пользу с первого дня.',
   'doc.report': 'Отчёт (PDF) ↗',
   'doc.slides': 'Презентация (PDF) ↗',
   'doc.excel': 'Анализ в Excel ↗',
@@ -287,6 +309,17 @@ ru: {
   'doc.log': 'Журнал решений (PDF) ↗',
   'doc.paper': 'Работа (PDF) ↗',
   'doc.market': 'Анализ рынка (PDF) ↗',
+  'k.num': '02 · Мой вклад',
+  'k.title': 'Что я могу привнести в инвестиционную команду',
+  'k.sub': 'Мой опыт сочетает финансовый анализ, эконометрику и машинное обучение. Вот как я могу применить их в работе инвестиционной команды:',
+  'k1.t': 'Отбор и поиск целей',
+  'k1.p': 'Построение отбора на основе данных для поиска и ранжирования потенциальных целей: финансовые коэффициенты, сигналы роста, кластеризация сопоставимых компаний и скоринговые модели на Python, R или SQL.',
+  'k2.t': 'Due diligence',
+  'k2.p': 'Очистка и анализ данных компании и рынка, проверка факторов выручки и маржи с помощью эконометрических моделей и оценка объёма рынка — как я делала для норвежского рынка в Autolyzer.',
+  'k3.t': 'Оценка и моделирование',
+  'k3.p': 'Корректировка финансовой отчётности, построение DCF-моделей со сценариями и анализом чувствительности, как в моём отчёте по Polestar, и оценка риска методом Монте-Карло.',
+  'k4.t': 'Машинное обучение и мониторинг',
+  'k4.p': 'Применение машинного обучения для прогнозирования ключевых показателей и выявления тревожных сигналов в портфельных компаниях, автоматизация отчётности в Excel и VBA — с понятным объяснением каждого результата для команды.',
   'p.quote': '«Чтобы изменить мир, в котором мы живём, нужно сначала его понять».',
 
 
@@ -348,7 +381,7 @@ ru: {
 
   'v.num': '04 · Ценности и участие',
   'v.title': 'Что меня вдохновляет',
-  'v.sub': 'Мои личные убеждения — источник моего профессионального выбора.',
+  'v.sub': 'За пределами финансов: что меня вдохновляет.',
   'v2.t': 'Участие',
   'v2.p': 'Везде, где я училась, я находила способ участвовать в общественной жизни: в Ассоциации студентов-экономистов в Страсбурге, в велоассоциации Vélodocteurs в Кольмаре и с ноября 2026 года — в Фонде Брижит Бардо в Париже, деле, особенно близком моему сердцу. Этот опыт научил меня, что участие строится на регулярных конкретных действиях, и помогает мне оставаться ближе к реальности тех целей, которые я надеюсь поддерживать как инвестор.',
   'v3.t': 'Дизайн',
@@ -387,6 +420,6 @@ ru: {
   's.lang': 'Языки', 's.lang.t': 'Грузинский · родной|Русский · родной|Французский · C1|Английский · C1|Украинский · B2|Норвежский · A2',
 
   'c.num': 'Контакты', 'c.title': 'Давайте общаться',
-  'c.sub': 'Устойчивые финансы, Private Equity или идея, которую мы могли бы воплотить вместе, — буду очень рада пообщаться!'
+  'c.sub': 'Private Equity, финансовое моделирование или данные — буду рада обсудить, чем могу быть полезна вашей команде.'
 }
 };
